@@ -1,0 +1,51 @@
+body{
+    background-image: url(c.jpg);
+    background-repeat: repeat;
+    margin: 0px 0px;
+    
+}
+.float{
+    background-color: rgb(196, 116, 19);
+    border-radius: 15px;
+    margin: 0px 15px;
+    justify-content: center;
+    height: 500px;
+    width: 300px;
+}
+.flex{
+    
+    background-color: rgb(235, 235, 235);
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    margin: 0px 0px;
+    
+
+
+}
+.acceuil{
+    text-decoration: none;
+    background-color: rgb(175, 170, 170);
+    padding: 10px 20px;
+    border-radius: 15px;
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    margin-right: 5px;
+    margin-top: 21px;
+    text-decoration-color: black;
+    font-size: 20px;
+}
+.contact{
+    text-decoration: none;
+    background-color:rgb(216, 213, 213) ;
+    padding: 10px 20px;
+    border-radius: 15px;
+    display:;
+    margin: 0px 65px;
+}
+img{
+    margin: 3px 15px;
+    border-radius: 10px;
+}

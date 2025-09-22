@@ -1,0 +1,39 @@
+.header-right{
+    color: aliceblue;
+    font-size: 19px;
+    margin: 10px;
+    padding: 7px;
+    border: 10px;
+    text-decoration-line: none;
+    background-color:  rgb(209, 146, 73);
+    z-index: 2;
+    font-weight: bold;
+    border-radius: 30px;
+
+}
+.photo-entete{
+  background-position: center;
+    height: 100vh;
+    margin: 100px 0PX 0PX 0PX;
+}
+#celibat{
+    display: block;
+    position: absolute;
+    bottom: -500px;
+    left: 50%;
+    transform: translateX(-50%);
+  
+}
+header{
+    height: 100px;
+    background-color: rgb(252, 218, 126);
+    position: fixed;
+    width: 100%;
+    text-align: center;
+    z-index: 1;
+  
+}
+body{
+    padding: 0px;
+    margin: 0px;
+}    

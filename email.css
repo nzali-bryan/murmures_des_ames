@@ -1,0 +1,32 @@
+body{
+    background-image: url(Annotation\ 2025-04-23\ 043025.png);
+    margin: 0px 0px;
+}
+
+.plan2{
+    
+    position: fixed;
+    top: 1px;
+    text-align: center;
+    width: 100%;
+    
+    background-color: black;
+    color: aliceblue;
+
+}
+.acceuil{
+
+    text-decoration: none;
+    background-color: rgb(20, 20, 20);
+    padding: 10px 20px;
+    border-radius: 15px;
+    color: aliceblue;
+    font-size: 20px;
+}
+form{
+    
+    margin-top: 120px;
+    position: fixed;
+    justify-content: center;
+}
+
